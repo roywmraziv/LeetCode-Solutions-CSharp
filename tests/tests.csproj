@@ -23,9 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Easy\" />
       <Folder Include="Hard\" />
-      <Folder Include="Medium\" />
     </ItemGroup>
 
 </Project>
