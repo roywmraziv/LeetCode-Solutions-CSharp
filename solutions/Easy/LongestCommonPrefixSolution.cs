@@ -30,10 +30,12 @@ public class LongestCommonPrefixSolution
                     go = false;
                 }
             }
-            if(go == true)
+
+            if (go == true)
             {
                 pf += strs[shortestIndex][i];
             }
+            else break;
         }
         return pf;
 
